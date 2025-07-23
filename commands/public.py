@@ -104,7 +104,7 @@ class Public(commands.Cog):
         level_left = int(float(config["level"]["left"].replace("px", "")))
         level_top = int(float(config["level"]["top"].replace("px", "")))
         level_color = config["level"]["color"]
-        draw.text((level_left, level_top), f"Level {level}", fill=level_color, font=font)
+        draw.text((level_left, level_top), f"{level}", fill=level_color, font=font)
 
         # Coins
         coins_left = int(float(config["coins"]["left"].replace("px", "")))
