@@ -1,0 +1,46 @@
+{
+  "profilePic": {
+    "left": "22.4px",
+    "top": "64.4px",
+    "width": "auto",
+    "height": "auto",
+    "fontSize": "inherit",
+    "color": "#ffffff"
+  },
+  "name": {
+    "left": "162.8px",
+    "top": "183.8px",
+    "width": "auto",
+    "height": "auto",
+    "fontSize": "inherit",
+    "color": "#ffffff",
+    "value": "name"
+  },
+  "coins": {
+    "left": "585px",
+    "top": "730px",
+    "width": "auto",
+    "height": "auto",
+    "fontSize": "inherit",
+    "color": "#ffffff",
+    "value": "coins coins"
+  },
+  "level": {
+    "left": "585px",
+    "top": "810px",
+    "width": "auto",
+    "height": "auto",
+    "fontSize": "inherit",
+    "color": "#ffffff",
+    "value": "Level level"
+  },
+  "xp": {
+    "left": "555px",
+    "top": "885px",
+    "width": "auto",
+    "height": "auto",
+    "fontSize": "inherit",
+    "color": "#ffffff",
+    "value": "xp"
+  }
+}
