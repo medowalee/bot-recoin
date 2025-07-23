@@ -40,7 +40,7 @@ class Public(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 
-    @commands.command()
+    @commands.command(aliases=["r"])
     async def profile(self, ctx, target=None):
         """عرض بطاقة البروفايل. يمكنك استخدام منشن أو آيدي المستخدم."""
         user = ctx.author
